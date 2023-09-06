@@ -1,5 +1,9 @@
 # Home Assistant GTFS Realtime (rt)
 
+Forked from Mark Foley's fork. Intended to better integrate with BART.
+
+
+>>>>>>
 This project contains a new sensor that provides real-time departure data for
 local transit systems that provide gtfs feeds.
 
